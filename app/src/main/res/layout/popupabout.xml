@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="350dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="30dp"
+    android:layout_centerInParent="true"
+    android:paddingHorizontal="50dp"
+    android:paddingVertical="80dp"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:id="@+id/abcd"
+        android:textStyle="bold"
+        android:text="Created By :\n\nGaurav Attri"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/abcd"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:text="+919720557468\ngauravattri1997@gmail.com"/>
+
+</RelativeLayout>

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "72055211854",
+    "firebase_url": "https://timeliner-88a91.firebaseio.com",
+    "project_id": "timeliner-88a91",
+    "storage_bucket": "timeliner-88a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72055211854:android:b2592e773ababa81",
+        "android_client_info": {
+          "package_name": "com.attri.gaurav.timeliner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72055211854-u73ro30fq6k8afdf8ra9qrqollbkt4t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.attri.gaurav.timeliner",
+            "certificate_hash": "7e25d65f4dc0b1240923053ac30fe3b099c428a2"
+          }
+        },
+        {
+          "client_id": "72055211854-bamq0mpls1aqp8r98d7g3pa6jhtd1fvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.attri.gaurav.timeliner",
+            "certificate_hash": "ca93483f90bb66dbec46733c66a1a51fa5b440d9"
+          }
+        },
+        {
+          "client_id": "72055211854-10fhsnif5ggmiroo05tppkifibp1drcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArMrsTj2oJ8sdNBsvGxp6ZwRs3dD1B2r8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72055211854-10fhsnif5ggmiroo05tppkifibp1drcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
